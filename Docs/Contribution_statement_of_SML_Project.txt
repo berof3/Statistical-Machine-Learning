@@ -1,0 +1,4 @@
+﻿Who implemented which method should later be clearly written in the contribution statement. All group members should be able to stand for all sections of the report
+
+
+The data analysis task was done by Ida Larsson, Karolina Ilieva and Nicole Mikha. Ida Larsson implemented and wrote about kNN, Nicole Mikha implemented and wrote the section about logistic regression, Karolina Ilieva implemented and wrote the section about LDA. Elias Kassie implemented the decision tree and random forest models and wrote the conclusion sections. Elias Kassie also applied our chosen model on the test-data and turned it into a CSV file.
