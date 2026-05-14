@@ -45,7 +45,4 @@ We explored and compared multiple families of classification algorithms to deter
 *   **Language**: Python
 *   **Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 *   **Formatting**: LaTeX (for technical reporting)
-
-
-
-🔗 
+ 
